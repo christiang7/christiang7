@@ -1,6 +1,5 @@
-# Hi there 👋 
-&#x1DF0B;
-&#x2718;
+# Hi there 👋 &#x1DF0B;
+
 > Ad Astra per Aspera
 
 <!--
