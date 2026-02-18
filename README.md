@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there 👋 U+1DF0B
 
 > Ad Astra per Aspera
 
