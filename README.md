@@ -8,10 +8,10 @@
 
 I wrote my master thesis about general relativity. How we can deal with higher derivative terms in the action integral and in the following equations of motion? A mathematical solution was found, but no physical explanation for that.
 <div align=center style="text-align: center;">
-    <img width="350" src="action-integral-quadratic.png"/> 
+    <img width="550" src="action-integral-quadratic.png"/> 
 </div>
 <div align=center style="text-align: center;">
-    <img width="350" src="equation-of-motion-quadratic.png"/> 
+    <img width="550" src="equation-of-motion-quadratic.png"/> 
 </div>
 
 For more information see the [repository](https://github.com/christiang7/Master_thesis_aspects_of_field_theories_in_higher_derivative_terms) 
