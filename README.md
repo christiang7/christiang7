@@ -2,6 +2,8 @@
 <div align=center style="text-align: center;">
     <img width="750" src="Helix-nebula-intricacies-weic2601a.jpeg"/> 
 </div>
+
+
 An image of the beautiful Helix nebula from the James Webb Space Telescope [source](https://esawebb.org/images/weic2601a/)
 
 
