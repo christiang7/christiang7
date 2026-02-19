@@ -24,6 +24,14 @@ For more see the [nonlinear computational physics repository](https://github.com
     
 For more see the [3 body problem simulation repository](https://github.com/christiang7/Comp-Physics-1-3-body-problem) 
 
+#### Falling liquids - Korteweg de Vries solutions
+<div align=center style="text-align: center;">
+    <img width="350" src="Korteweg-de-Vries-simulation.png"/> <img width="350" src="Korteweg-de-Vries-simulation-2.png"/> 
+</div>
+    
+For more see the [falling liquids simulation repository](https://github.com/christiang7/Comp-Physics-4-Falling-liquid-films) 
+
+
 
 <!--
 **christiang7/christiang7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
