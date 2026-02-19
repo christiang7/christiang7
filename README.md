@@ -11,11 +11,11 @@
 ### computational physics
 
 Mackey-Glass-equation solutions
-
 <div align=center style="text-align: center;">
     <img width="350" src="Mackey-Glass-equation-solution.png"/> <img width="350" src="Mackey-Glass-equation-solution-2.png"/> 
 </div>
     
+For more see the [Nonlinear computational physics repository](https://github.com/christiang7/Nonlinear-computational-physics) 
 
 
 
