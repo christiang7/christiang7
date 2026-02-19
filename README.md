@@ -4,11 +4,11 @@
 
 ## Physics
 
-### general relativity
+### General Relativity
 
 
 
-### computational physics
+### Computational Physics
 
 Mackey-Glass-equation solutions
 <div align=center style="text-align: center;">
