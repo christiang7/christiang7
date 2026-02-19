@@ -1,5 +1,9 @@
 # Hi there 👋 &#x1DF0B;
 
+<div align=center style="text-align: center;">
+    <img width="750" src="Helix-nebula-intricacies-weic2601a.jpeg"/> 
+</div>
+
 > Ad Astra per Aspera
 
 ## Physics
