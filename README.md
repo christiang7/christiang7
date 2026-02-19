@@ -13,6 +13,7 @@ I wrote my master thesis about general relativity. How we can deal with higher d
 <div align=center style="text-align: center;">
     <img width="350" src="equation-of-motion-quadratic.png"/> 
 </div>
+
 For more information see the 
 
 [repository](https://github.com/christiang7/Master_thesis_aspects_of_field_theories_in_higher_derivative_terms) 
