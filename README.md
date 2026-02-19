@@ -6,7 +6,7 @@
 
 ### General Relativity
 
-
+I wrote my master thesis about general relativity. How we can deal with higher derivative terms in the action integral and in the following equations of motion? A mathematical solution was found, but no physical explanation for that. For more information see me [repository](https://github.com/christiang7/Master_thesis_aspects_of_field_theories_in_higher_derivative_terms).
 
 ### Computational Physics
 
