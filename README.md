@@ -2,6 +2,23 @@
 
 > Ad Astra per Aspera
 
+## Physics
+
+### general relativity
+
+
+
+### computational physics
+
+Mackey-Glass-equation solutions
+
+<div align=center style="text-align: center;">
+    <img width="350" src="Mackey-Glass-equation-solution.png"/> <img width="350" src="Mackey-Glass-equation-solution-2.png"/> 
+</div>
+    
+
+
+
 <!--
 **christiang7/christiang7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
