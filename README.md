@@ -10,13 +10,19 @@
 
 ### Computational Physics
 
-Mackey-Glass-equation solutions
+#### Mackey-Glass-equation solutions
 <div align=center style="text-align: center;">
     <img width="350" src="Mackey-Glass-equation-solution.png"/> <img width="350" src="Mackey-Glass-equation-solution-2.png"/> 
 </div>
     
 For more see the [Nonlinear computational physics repository](https://github.com/christiang7/Nonlinear-computational-physics) 
 
+#### 3 body problem orbits
+<div align=center style="text-align: center;">
+    <img width="350" src="3-body-problem-orbits.png"/> <img width="350" src="3-body-problem-orbits-2.png"/> 
+</div>
+    
+For more see the [3 body problem simulation repository](https://github.com/christiang7/Comp-Physics-1-3-body-problem) 
 
 
 <!--
