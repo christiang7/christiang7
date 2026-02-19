@@ -15,7 +15,7 @@
     <img width="350" src="Mackey-Glass-equation-solution.png"/> <img width="350" src="Mackey-Glass-equation-solution-2.png"/> 
 </div>
     
-For more see the [Nonlinear computational physics repository](https://github.com/christiang7/Nonlinear-computational-physics) 
+For more see the [nonlinear computational physics repository](https://github.com/christiang7/Nonlinear-computational-physics) 
 
 #### 3 body problem orbits
 <div align=center style="text-align: center;">
