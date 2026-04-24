@@ -13,7 +13,7 @@ An image of the beautiful Helix nebula from the James Webb Space Telescope [sour
 
 ### General Relativity
 
-I wrote my master thesis about general relativity. How we can deal with higher derivative terms in the action integral and in the following equations of motion? 
+I wrote my master thesis about general relativity. How can we deal with higher derivative terms in the action integral and in the following equations of motion? 
 
 <div align=center style="text-align: center;">
     <img width="550" src="action-integral-quadratic.png"/> 
